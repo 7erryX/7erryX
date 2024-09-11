@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm 7erry</h1>
+<h1 align=“center”>嗨，我是7erry</h1>
+<h3 align="center">A passionate tech lover majoring in computer security and having a broad interest in computer science</h3>
+一个充满激情的技术爱好者，主修计算机安全，并对计算机科学有广泛的兴趣
 
-<!--
-**RuijieWu/RuijieWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RuijieWu&label=Profile%20views&color=0e75b6&style=flat" alt="RuijieWu" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 📝 I regularly write articles on [http://7erry.com](http://7erry.com)
+- 我经常在[http://7erry.com]（http：//7erry.com）上写文章
+
+- 📫 How to reach me **w.7erry@qq.com**
+- 📫联系方式 ** qq.com **
+
+- 📄 Know about my experiences [http://7erry.com/about/](http://7erry.com/about/)
+- 📄了解我的经历[http：//7erry.com/about/]（http：//7erry.com/about/）
+
+<h3 align="left">Connect with me:</h3>
+联系我们
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+语言和工具：
+
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<p align=“left”> <a href=”https://golang.org“target="_blank”rel=“noberrer”> <img src=”https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg“alt=“go”width=“40”height=“40”/> </a> <a href=”https://www.python.org“target="_blank”rel=“noberrer”> <img src=”https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg“alt=“python”width=“40”height=“40”/> </a> <a href=”https://www.rust-lang.org“target="_blank”rel=“noreferrer”> <img src=”https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg“alt=“rust”width=“40”height=“40”/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuijieWu&show_icons=true&locale=en" alt="RuijieWu" /></p>
+
