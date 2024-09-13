@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, Here is 7erry</h1>
 <h1 align=“center”>👋 嗨，我是 7erry</h1>
 <h3 align="center">🤓 A passionate tech lover majoring in computer security and having a broad interest in computer science</h3>
-🤓 一个充满激情的技术爱好者，主修计算机安全，并对计算机科学有广泛的兴趣
+<h3 align="center">🤓 一个充满激情的技术爱好者，主修计算机安全，并对计算机科学有广泛的兴趣</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RuijieWu&label=Profile%20views&color=0e75b6&style=flat" alt="RuijieWu" /> </p>
 
