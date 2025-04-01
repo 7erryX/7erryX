@@ -6,5 +6,5 @@
 - Taking broad interest in computer science and technology
 - Currently learning program analysis & binary security
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=7erryX&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/7erryX/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=7erryX&show_icons=true&theme=dark)](https://github.com/7erryX/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7erryX&layout=compact&theme=dark)](https://github.com/7erryX/github-readme-stats)
