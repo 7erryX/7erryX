@@ -1,22 +1,10 @@
-<!--
- * @Date: 2024-09-12 00:16:26
- * @LastEditTime: 2024-09-12 00:41:16
- * @Description: 
--->
-<h1 align="center">👋 Hi, Here is 7erry</h1>
-<h1 align=“center”>👋 嗨，我是 7erry</h1>
-<h3 align="center">🤓 A passionate tech lover majoring in computer security and having a broad interest in computer science</h3>
-<h3 align="center">🤓 一个充满激情的技术爱好者，主修计算机安全，并对计算机科学有广泛的兴趣</h3>
+# Hello 👋, This is 7erry
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RuijieWu&label=Profile%20views&color=0e75b6&style=flat" alt="RuijieWu" /> </p>
+[![Gmail Badge](https://img.shields.io/badge/-w.7erry@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:w.7erry@qq.com)](mailto:w.7erry@qq.com) [![Github Badge](https://img.shields.io/badge/-7erry-grey?style=flat&logo=github&logoColor=white&link=https://github.com/7erryX/)](https://www.github.com/7erryX/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=7erry.com/)](7erry.com/) ![Picture](https://komarev.com/ghpvc/?username=7erryX)
 
-- 📝 I regularly write articles on [7erry's Website](http://7erry.com)
-- 📝 我经常在[我的网站](http://7erry.com)上写文章
+- A tech enthusiast on Cyber Security with particular focus on vulnerability investigation.
+- Taking broad interest in computer science and technology
+- Currently learning program analysis & binary security
 
-- 📫 How to reach me **w.7erry@qq.com**
-- 📫 联系方式 **w.7erry@qq.com**
-
-- 📄 Know about my [experiences](http://7erry.com/about/)
-- 📄 了解我的 [经历](http://7erry.com/about/)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RuijieWu&show_icons=true&locale=en" alt="RuijieWu" /></p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=7erryX&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/7erryX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7erryX&layout=compact&theme=dark)](https://github.com/7erryX/github-readme-stats)
