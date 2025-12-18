@@ -4,7 +4,7 @@
 
 - A tech enthusiast in Cyber Security with particular focus on vulnerability investigation and diagnosis.
 - Taking broad interests in the realm of computer science and technology.
-- Aim to do what is right, not what is easy.
+- Aiming to do what is right, not what is easy.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=7erryX&show_icons=true&theme=dark)](https://github.com/7erryX/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7erryX&layout=compact&theme=dark)](https://github.com/7erryX/github-readme-stats)
